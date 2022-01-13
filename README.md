@@ -1,4 +1,4 @@
-<h1> Olá, mundo </h1>
+<h1> Olá, mundo! </h1>
 
 <p>Sou um eterno estudante e amo tecnologia.</p>
 <p>Identifico-me com o front-end e UI/UX Design.</p>
