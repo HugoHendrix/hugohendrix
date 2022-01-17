@@ -15,8 +15,14 @@
    <li><strong>Blockchain.</strong></li>
    <li><strong>Criptomoedas.</strong></li></p>
   </ul>
-
-##
+<br>
+<div">
+<h2>Projetos</h2>
+<p><a href="https://hugohendrix.github.io/projeto-android/">Projeto Android</a> - Fala sobre a criação e a evolução do mascote Android.</p>
+</div>  
+<hr>
+<h1>Skills</h1>
+  
 <div align="left">
   <a href="https://github.com/hugohendrix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugohendrix&layout=compact&langs_count=7&theme=dark"/>
