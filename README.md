@@ -17,7 +17,7 @@
   </ul>
 <br>
 <div">
-<h2>Projetos</h2>
+<h1>Projetos</h1>
 <p><a href="https://hugohendrix.github.io/projeto-android/">Projeto Android</a> - Fala sobre a criação e a evolução do mascote Android. 
  Artigo simples, com HTML5 e CSS3 <strong>Semântico e Responsivo</strong>.</p>
 </div>  
