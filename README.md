@@ -20,7 +20,7 @@
 <h1>Projetos</h1>
 <p>O <a href="https://hugohendrix.github.io/projeto-android/" target="_blank">Projeto Android (Clique aqui para ver)</a> - Fala sobre a criação e a evolução do mascote Android. 
  Artigo simples, com HTML5 e CSS3 <strong>Semântico e Responsivo</strong>.</p>
- <p>O <a href="https://hugohendrix.github.io/projeto-cordel/" target="_blank">Projeto Cordel (Clique aqui para ver)</a> - Umas das manifestações populares é a Literatura de Cordel, é ter poesias escritas em forma de versos que podem ser recitados de forma melodiosa e cadenciada, geralmente acompanhadas de uma música tocada com instrumentos tipicamente nordestinos. <strong>Usei parallax effect simples, Tags Semânticas, Responsividade e também é uma homenagem ao senhor <a href="https://www.recantodasletras.com.br/poesias/3186743">Milton Duarte.</a> </strong> </p>
+ <p>O <a href="https://hugohendrix.github.io/projeto-cordel/" target="_blank">Projeto Cordel (Clique aqui para ver)</a> - Umas das manifestações populares é a Literatura de Cordel, é ter poesias escritas em forma de versos que podem ser recitados de forma melodiosa e cadenciada, geralmente acompanhadas de uma música tocada com instrumentos tipicamente nordestinos. <strong>Usei parallax effect simples, Tags Semânticas e Responsividade.</strong> <br>Direitos autorais <a href="https://www.recantodasletras.com.br/poesias/3186743">Milton Duarte.</a>  </p>
 </div>  
 <hr>
 <h1>Skills</h1>
@@ -28,7 +28,7 @@
   <hr>
 <div align="left">
   <a href="https://github.com/hugohendrix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugohendrix&layout=compact&langs_count=7&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugohendrix&layout=compact&langs_count=7&theme=dark"/>
     <div style="display: inline_block"><br>
   
   <img align="center" alt="hugo-HTML" title="HTML5" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
