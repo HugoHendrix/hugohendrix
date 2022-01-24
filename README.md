@@ -28,12 +28,12 @@
   <hr>
 <div align="left">
   <a href="https://github.com/hugohendrix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugohendrix&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugohendrix&layout=compact&langs_count=7&theme=white"/>
     <div style="display: inline_block"><br>
   
-  <img align="center" alt="hugo-HTML" title="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="hugo-CSS" title="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kickoff-Badge" title="Kickoff Badger (Curso de Gerenciamento de projetos Ágil)" height="40" width="50" src="https://github.com/HugoHendrix/Certificados/blob/main/Desenvolvimento%20Pessoal/Kickoff-Badge.png?raw=true">
+  <img align="center" alt="hugo-HTML" title="HTML5" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="hugo-CSS" title="CSS3" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kickoff-Badge" title="Kickoff Badger (Curso de Gerenciamento de projetos Ágil)" height="60" width="70" src="https://github.com/HugoHendrix/Certificados/blob/main/Desenvolvimento%20Pessoal/Kickoff-Badge.png?raw=true">
   
 </div>
 </div>
