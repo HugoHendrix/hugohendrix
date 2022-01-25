@@ -1,5 +1,5 @@
 <h1> Olá, mundo! 👍</h1>
-<h2>Eu sou Hugo Hendrix e estou aprendendo Desenvolvimento Web.</h2>
+<h2>Sou Hugo Hendrix e estou aprendendo Desenvolvimento Web.</h2>
 
 <p>Sou um eterno estudante e amo tecnologia. 🧠</p>
 <p>Identifico-me com o front-end e UI/UX Design. 🖥️ </p>
