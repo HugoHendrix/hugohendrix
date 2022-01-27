@@ -1,5 +1,5 @@
 <h1> Olá, mundo! 🌎</h1>
-<h2>Sou Hugo Hendrix e estou aprendendo Desenvolvimento Web. 🤓</h2>
+<h3>Sou Hugo Hendrix e estou aprendendo Desenvolvimento Web. 🤓</h3>
 
 <p>Um eterno estudante e amante de tecnologia. 🧠</p>
 <p>Identifico-me com o front-end e UI/UX Design. 🖥️ </p>
@@ -7,7 +7,7 @@
 <a href = "mailto:hugohendrixc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugohendrix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<p><h2>Tenho interesse em aprender: </h2> 
+<p><h3>Tenho interesse em aprender: </h3> 
  <ul>
    <li><strong>Linguagens de Programação.</strong></li>
    <li><strong>Metodologias Ágeis.</strong></li>
@@ -29,7 +29,7 @@ All contents are in English because is a requisite to pass on test. That was a w
 
 </div>  
 <hr>
-<h1>Skills 💪 </h1>
+<h1>Skills (Habilidades)💪 </h1>
   <p>Certificados de conclusão dos cursos finalizados recentemente.<a href="https://github.com/HugoHendrix/Certificados" target="_blank"> (Clique aqui para ver).</a></p>
   <hr>
 <div align="left">
