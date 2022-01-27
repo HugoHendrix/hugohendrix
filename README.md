@@ -1,13 +1,13 @@
-<h1> Olá, mundo! 👍</h1>
-<h2>Sou Hugo Hendrix e estou aprendendo Desenvolvimento Web.</h2>
+<h1> Olá, mundo! 🌎</h1>
+<h2>Sou Hugo Hendrix e estou aprendendo Desenvolvimento Web. 🤓</h2>
 
-<p>Sou um eterno estudante e amo tecnologia. 🧠</p>
+<p>Um eterno estudante e amante de tecnologia. 🧠</p>
 <p>Identifico-me com o front-end e UI/UX Design. 🖥️ </p>
 <p>Estou me graduando em Superior de Tecnologia em Marketing Digital 🚀</p>
 <a href = "mailto:hugohendrixc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugohendrix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<p><h2>Tenho interesse em aprender:</h2> 
+<p><h2>Tenho interesse em aprender: </h2> 
  <ul>
    <li><strong>Linguagens de Programação.</strong></li>
    <li><strong>Metodologias Ágeis.</strong></li>
@@ -17,13 +17,19 @@
   </ul>
 <br>
 <div">
-<h1>Projetos</h1>
-<p>O <a href="https://hugohendrix.github.io/projeto-android/" target="_blank">Projeto Android (Clique aqui para ver)</a> - Fala sobre a criação e a evolução do mascote Android. 
- Artigo simples, com HTML5 e CSS3 <strong>Semântico e Responsivo</strong>.</p>
- <p>O <a href="https://hugohendrix.github.io/projeto-cordel/" target="_blank">Projeto Cordel (Clique aqui para ver)</a> - Umas das manifestações populares é a Literatura de Cordel, é ter poesias escritas em forma de versos que podem ser recitados de forma melodiosa e cadenciada, geralmente acompanhadas de uma música tocada com instrumentos tipicamente nordestinos. <strong>Usei parallax effect simples, Tags Semânticas e Responsividade.</strong> <br>Direitos autorais <a href="https://www.recantodasletras.com.br/poesias/3186743">Milton Duarte.</a>  </p>
+<h1>Projetos ✔️</h1>
+<p><strong> <a href="https://hugohendrix.github.io/projeto-android/" target="_blank">Projeto Android (Clique aqui para ver).</a></strong>
+  <br>Fala sobre a criação e a evolução do mascote Android. Artigo simples, com HTML5 e CSS3 <strong>Semântico e Responsivo</strong>.</p>
+ <p><strong> <a href="https://hugohendrix.github.io/projeto-cordel/" target="_blank">Projeto Cordel (Clique aqui para ver).</a></strong> 
+  <br>Umas das manifestações populares é a Literatura de Cordel, é ter poesias escritas em forma de versos que podem ser recitados de forma melodiosa e cadenciada, geralmente acompanhadas de uma música tocada com instrumentos tipicamente nordestinos. <strong> <br>Usei parallax effect simples, Tags Semânticas e Responsividade.</strong> Direitos autorais <a href="https://www.recantodasletras.com.br/poesias/3186743">Milton Duarte.</a>  </p>
+ <p><strong><a href="https://codepen.io/hugo_hendrix/full/PoOoRdZ">Projeto Satoshi Nakamoto (Clique aqui para ver).</a></strong>
+  <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
+<br>This is a simple page with HTML and CSS shows information about Satoshi Nakamoto, the “man” who's created bitcoin.<br>
+All contents are in English because is a requisite to pass on test. That was a wonderful opportunity to improve and practice my experience with language. </p> 
+
 </div>  
 <hr>
-<h1>Skills</h1>
+<h1>Skills 💪 </h1>
   <p>Certificados de conclusão dos cursos finalizados recentemente.<a href="https://github.com/HugoHendrix/Certificados" target="_blank"> (Clique aqui para ver).</a></p>
   <hr>
 <div align="left">
@@ -33,7 +39,8 @@
   
   <img align="center" alt="hugo-HTML" title="HTML5" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hugo-CSS" title="CSS3" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kickoff Badger (Gerenciamento de projetos Ágil)" title="Kickoff Badger (Curso de Gerenciamento de projetos Ágil)" height="60" width="70" src="https://github.com/HugoHendrix/Certificados/blob/main/Desenvolvimento%20Pessoal/Kickoff-Badge.png?raw=true">
+  <img align="center" alt="Kickoff Badge (Gerenciamento de projetos Ágil)" title="Kickoff Badge (Gerenciamento de projetos Ágil)" height="60" width="70" src="https://github.com/HugoHendrix/Certificados/blob/main/Desenvolvimento%20Pessoal/Kickoff-Badge.png?raw=true">
+   <img align="center" alt="Camper Badge" title="FreeCodeCamp Badge - 300 hours"  height="60" width="70" src="https://raw.githubusercontent.com/HugoHendrix/Certificados/a7d92eabf1fe9f8c7b767c8845282f90c9d421ea/Dev/CamperBot-removebg-preview.png">
   
 </div>
 </div>
