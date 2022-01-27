@@ -39,7 +39,7 @@ All contents are in English because is a requisite to pass on test. That was a w
   
   <img align="center" alt="hugo-HTML" title="HTML5" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hugo-CSS" title="CSS3" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kickoff Badge (Gerenciamento de projetos Ágil)" title="Kickoff Badge (Gerenciamento de projetos Ágil)" height="60" width="70" src="https://github.com/HugoHendrix/Certificados/blob/main/Desenvolvimento%20Pessoal/Kickoff-Badge.png?raw=true">
+  <img align="center" alt="Kickoff Badge (Gerenciamento de projetos Ágil)" title="Kickoff Badge (Gerenciamento de projetos Ágil)" height="60" width="70" src="https://raw.githubusercontent.com/HugoHendrix/Certificados/5a1b7976c332b38e904e54ae87c8a95b749eb3f9/Desenvolvimento%20Pessoal/Kickoff-Badge.png">
    <img align="center" alt="Camper Badge" title="FreeCodeCamp Badge - 300 hours"  height="60" width="70" src="https://raw.githubusercontent.com/HugoHendrix/Certificados/a7d92eabf1fe9f8c7b767c8845282f90c9d421ea/Dev/CamperBot-removebg-preview.png">
   
 </div>
