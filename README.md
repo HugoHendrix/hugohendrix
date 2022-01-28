@@ -24,8 +24,7 @@
   <br>Umas das manifestações populares é a Literatura de Cordel, é ter poesias escritas em forma de versos que podem ser recitados de forma melodiosa e cadenciada, geralmente acompanhadas de uma música tocada com instrumentos tipicamente nordestinos. <strong> <br>Usei parallax effect simples, Tags Semânticas e Responsividade.</strong> Direitos autorais <a href="https://www.recantodasletras.com.br/poesias/3186743">Milton Duarte.</a>  </p>
  <p><strong><a href="https://codepen.io/hugo_hendrix/full/PoOoRdZ">Projeto Satoshi Nakamoto (Clique aqui para ver).</a></strong>
   <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
-<br>This is a simple page with HTML and CSS shows information about Satoshi Nakamoto, the “man” who's created bitcoin.<br>
-All contents are in English because is a requisite to pass on test. That was a wonderful opportunity to improve and practice my experience with language. </p> 
+<br>This is a simple page with HTML and CSS shows informations about Satoshi Nakamoto, the “man” who's created bitcoin. </p> 
 
 </div>  
 <hr>
