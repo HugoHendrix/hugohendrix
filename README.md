@@ -19,17 +19,21 @@
 <div">
 <h1>Projetos ✔️</h1>
 <p><strong> <a href="https://hugohendrix.github.io/projeto-android/" target="_blank">Projeto Android (Clique aqui para ver).</a></strong>
-  <br>Fala sobre a criação e a evolução do mascote Android. Artigo simples, com HTML5 e CSS3 <strong>Semântico e Responsivo</strong>.</p>
+  <br>Fala sobre a criação e a evolução do mascote Android. Artigo simples, com HTML5 e CSS3 <strong>Semântico e Responsivo</strong>. 
+  <br>Conteúdo realizado para conclusão do Desafio do <a href="https://www.cursoemvideo.com/">Curso em Video</a>.</p>
+ 
  <p><strong> <a href="https://hugohendrix.github.io/projeto-cordel/" target="_blank">Projeto Cordel (Clique aqui para ver).</a></strong> 
-  <br>Umas das manifestações populares é a Literatura de Cordel, é ter poesias escritas em forma de versos que podem ser recitados de forma melodiosa e cadenciada, geralmente acompanhadas de uma música tocada com instrumentos tipicamente nordestinos. <strong> <br>Usei parallax effect simples, Tags Semânticas e Responsividade.</strong> Direitos autorais <a href="https://www.recantodasletras.com.br/poesias/3186743">Milton Duarte.</a>  </p>
+  <br>Umas das manifestações populares é a Literatura de Cordel, é ter poesias escritas em forma de versos que podem ser recitados de forma melodiosa e cadenciada, geralmente acompanhadas de uma música tocada com instrumentos tipicamente nordestinos. <strong> <br>Usei parallax effect simples, Tags Semânticas e Responsividade.</strong> Direitos autorais <a href="https://www.recantodasletras.com.br/poesias/3186743">Milton Duarte.</a> 
+<br>Conteúdo realizado para conclusão do Desafio do <a href="https://www.cursoemvideo.com/">Curso em Video</a>. </p>
+ 
  <p><strong><a href="https://codepen.io/hugo_hendrix/full/PoOoRdZ">Projeto Satoshi Nakamoto (Clique aqui para ver).</a></strong>
   <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
-<br>This is a simple page with HTML and CSS shows informations about Satoshi Nakamoto, the “man” who's created bitcoin. <br>Tribute Page Challenge. </p> 
+<br>This is a simple page with HTML and CSS shows informations about Satoshi Nakamoto, the “man” who's created bitcoin. Tribute Page Challenge. </p> 
 
 
  <p><strong><a href="https://codepen.io/hugo_hendrix/full/JjOdbwE">Formulário de pesquisa FreeCodeCamp (Clique aqui para ver).</a></strong>
   <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
-<br> Formulário com HTML5 e CSS3 para completar o desafio. <br>FreeCodeCamp Survey Form Challenge.</p> 
+<br> Formulário com HTML5 e CSS3 para completar o Desafio do FreeCodeCamp Survey Form Challenge.</p> 
 
 
 </div>  
