@@ -51,12 +51,19 @@ Atualmente estou trabalhado na Trans Sat como operador de monitoramento Jr e esc
   <a href="https://github.com/hugohendrix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugohendrix&layout=compact&langs_count=7&theme=dark"/>
     <div style="display: inline_block"><br>
-  <h2>Badge (Medalhas e Insígnias) 🎖️</h2>
+      
+      
+  <h1>Badge (Medalhas e Insígnias) 🎖️</h1>
   <img align="center" alt="hugo-HTML" title="HTML5" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      
+  
   <img align="center" alt="hugo-CSS" title="CSS3" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <img align="center" alt="Kickoff Badge (Gerenciamento de projetos Ágil)" title="Kickoff Badge (Gerenciamento de projetos Ágil)" height="60" width="70" src="https://raw.githubusercontent.com/HugoHendrix/Certificados/5a1b7976c332b38e904e54ae87c8a95b749eb3f9/Desenvolvimento%20Pessoal/Kickoff-Badge.png">
-   <img align="center" alt="Camper Badge" title="FreeCodeCamp Badge - 300 hours Responsive Web Design Certification"  height="60" width="70" src="https://raw.githubusercontent.com/HugoHendrix/Certificados/a7d92eabf1fe9f8c7b767c8845282f90c9d421ea/Dev/CamperBot-removebg-preview.png">
-  <img align="center" alt="Trans Sat-Hugo" title="Trans Sat Badge - 7 anos de GR" height="60" width="70" src="https://www.grtranssat.com.br/images/favicn-256.png">
+  
+  <img align="center" alt="Camper Badge" title="FreeCodeCamp Badge - 300 hours Responsive Web Design Certification"  height="60" width="70"               src="https://raw.githubusercontent.com/HugoHendrix/Certificados/a7d92eabf1fe9f8c7b767c8845282f90c9d421ea/Dev/CamperBot-removebg-preview.png">
+      
+ <img align="center" alt="Trans Sat-Hugo" title="Trans Sat Badge - 7 anos de GR" height="60" width="70" src="https://www.grtranssat.com.br/images/favicn-256.png">
       
 </div>
 </div>
