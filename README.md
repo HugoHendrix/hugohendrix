@@ -61,10 +61,18 @@ Atualmente estou trabalhado na Trans Sat como operador de monitoramento Jr e esc
   
   <img align="center" alt="Kickoff Badge (Gerenciamento de projetos Ágil)" title="Kickoff Badge (Gerenciamento de projetos Ágil)" height="60" width="70" src="https://raw.githubusercontent.com/HugoHendrix/Certificados/5a1b7976c332b38e904e54ae87c8a95b749eb3f9/Desenvolvimento%20Pessoal/Kickoff-Badge.png">
   
-  <img align="center" alt="Camper Badge" title="FreeCodeCamp Badge - 300 hours Responsive Web Design Certification"  height="60" width="70"               src="https://raw.githubusercontent.com/HugoHendrix/Certificados/a7d92eabf1fe9f8c7b767c8845282f90c9d421ea/Dev/CamperBot-removebg-preview.png">
+  <img align="center" alt="Proejeto Android" title="Projeto Android - Desafio do Curso em Video"  height="60" width="70" src="https://camo.githubusercontent.com/1627b8586a22db3a6a8f38d9b9a51a79ea3e2b1542619c84d953773a9c07e778/68747470733a2f2f69636f6e617263686976652e636f6d2f646f776e6c6f61642f6938333831392f64657369676e626f6c74732f637574652d736f6369616c2d323031342f416e64726f69642e69636f">
       
- <img align="center" alt="Trans Sat-Hugo" title="Trans Sat Badge - 7 anos de GR" height="60" width="70" src="https://www.grtranssat.com.br/images/favicn-256.png">
+ <img align="center" alt="Projeto Cordel" title="Projeto Cordel - Desafio do Curso em Video" height="60" width="70" src="https://www.pikpng.com/pngl/b/313-3136065_desert-image-illustration-cacto-xilogravura-png-clipart.png">
       
+  <img align="center" alt="Satoshi Nakamoto Tribute Page" title="Satoshi Nakamoto Badge - FreeCodeCamp Tribute Page Challenge" height="60" width="70" src="https://i.pinimg.com/originals/6a/7b/bb/6a7bbb8063269c2a3cd17647b49790ea.png">
+
+   <img align="center" alt="FreeCodeCamp Survey Form Challenge" title="FreeCodeCamp Survey Form Challenge." height="60" width="70" src="https://freeiconshop.com/wp-content/uploads/edd/search-var-flat.png">    
+    
+ <img align="center" alt="Trans Sat-Hugo" title="Trans Sat Badge - FreeCodeCamp Landing Page Challenge" height="60" width="70" src="https://www.grtranssat.com.br/images/favicn-256.png">
+ 
+
+  <img align="center" alt="Camper Badge" title="FreeCodeCamp Badge - 300 hours Responsive Web Design Certification"  height="60" width="70"               src="https://raw.githubusercontent.com/HugoHendrix/Certificados/a7d92eabf1fe9f8c7b767c8845282f90c9d421ea/Dev/CamperBot-removebg-preview.png">     
 </div>
 </div>
 
