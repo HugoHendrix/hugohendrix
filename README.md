@@ -38,8 +38,8 @@
  <p><strong><a href="https://codepen.io/hugo_hendrix/full/ExbPpGN">Desafio FreeCodeCamp - Landing Page (Clique aqui para ver).</a></strong>
   <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
 <br> Landing Page com HTML5 e CSS3 para completar o Desafio do FreeCodeCamp Landing Page Challenge.<br> 
-A Trans Sat é uma empresa que presta serviços de monitoramento e Gerenciamento de Risco há 21 anos.<br>
-Atualmente estou trabalhado na Trans Sat como operador de monitoramento Jr e escolhi ela como tema para esse Desafio.</p>
+A Trans Sat é uma empresa que realiza serviços de Monitoramento e Gerenciamento de Risco há 21 anos.<br>
+Atualmente estou trabalhado há 7 anos como Operador de Monitoramento. 💙</p>
 
 
 </div>  
