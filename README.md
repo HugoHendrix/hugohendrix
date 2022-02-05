@@ -41,6 +41,9 @@
 A Trans Sat é uma empresa que realiza serviços de Monitoramento e Gerenciamento de Risco há 21 anos.<br>
 Atualmente estou trabalhado há 7 anos como Operador de Monitoramento. 💙</p>
 
+ <p><strong><a href="https://codepen.io/hugo_hendrix/full/VwrjjLv">Desafio FreeCodeCamp - Technical Documentation Page Challenge (Clique aqui para ver).</a></strong>
+  <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
+<br>Technical Documentation Page Challenge.<br> 
 
 </div>  
 <hr>
@@ -65,7 +68,7 @@ Atualmente estou trabalhado há 7 anos como Operador de Monitoramento. 💙</p>
       
  <img align="center" alt="Projeto Cordel" title="Projeto Cordel - Desafio do Curso em Video" height="60" width="70" src="https://www.pikpng.com/pngl/b/313-3136065_desert-image-illustration-cacto-xilogravura-png-clipart.png">
       
-  <img align="center" alt="Satoshi Nakamoto Tribute Page" title="Satoshi Nakamoto Badge - FreeCodeCamp Tribute Page Challenge" height="60" width="70" src="https://i.pinimg.com/originals/6a/7b/bb/6a7bbb8063269c2a3cd17647b49790ea.png">
+  <img align="center" alt="Satoshi Nakamoto Tribute Page" title="Satoshi Nakamoto Badge - FreeCodeCamp Tribute Page Challenge" height="60" width="70" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/bitcoin-icon.png">
 
    <img align="center" alt="FreeCodeCamp Survey Form Challenge" title="FreeCodeCamp Survey Form Challenge." height="60" width="70" src="https://freeiconshop.com/wp-content/uploads/edd/search-var-flat.png">    
     
