@@ -61,7 +61,10 @@ Atualmente estou trabalhado há 7 anos como Operador de Monitoramento. 💙</p>
       
   
   <img align="center" alt="hugo-CSS" title="CSS3" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="
+Logo Anhanguera Educacional" title="Superior de Tecnologia em Marketing Digital - Anhanguera Educacional"  height="60" width="70"               src="https://i.pinimg.com/favicons/3fd3ed7c7206c71a891444e3c25c11a6a694e37a9446a7ddb28c0a7c.ico?e5d7b739581fee0dac0fc949ae03ffb0"> 
   
+         
   <img align="center" alt="Kickoff Badge (Gerenciamento de projetos Ágil)" title="Kickoff Badge (Gerenciamento de projetos Ágil)" height="60" width="70" src="https://raw.githubusercontent.com/HugoHendrix/Certificados/5a1b7976c332b38e904e54ae87c8a95b749eb3f9/Desenvolvimento%20Pessoal/Kickoff-Badge.png">
   
   <img align="center" alt="Proejeto Android" title="Projeto Android - Desafio do Curso em Video"  height="60" width="70" src="https://camo.githubusercontent.com/1627b8586a22db3a6a8f38d9b9a51a79ea3e2b1542619c84d953773a9c07e778/68747470733a2f2f69636f6e617263686976652e636f6d2f646f776e6c6f61642f6938333831392f64657369676e626f6c74732f637574652d736f6369616c2d323031342f416e64726f69642e69636f">
@@ -75,7 +78,10 @@ Atualmente estou trabalhado há 7 anos como Operador de Monitoramento. 💙</p>
  <img align="center" alt="Trans Sat-Hugo" title="Trans Sat Badge - FreeCodeCamp Landing Page Challenge" height="60" width="70" src="https://www.grtranssat.com.br/images/favicn-256.png">
  
 
-  <img align="center" alt="Camper Badge" title="FreeCodeCamp Badge - 300 hours Responsive Web Design Certification"  height="60" width="70"               src="https://raw.githubusercontent.com/HugoHendrix/Certificados/a7d92eabf1fe9f8c7b767c8845282f90c9d421ea/Dev/CamperBot-removebg-preview.png">     
+  <img align="center" alt="Camper Badge" title="FreeCodeCamp Badge - 300 hours Responsive Web Design Certification"  height="60" width="70"               src="https://raw.githubusercontent.com/HugoHendrix/Certificados/a7d92eabf1fe9f8c7b767c8845282f90c9d421ea/Dev/CamperBot-removebg-preview.png"> 
+      
+  
+       
 </div>
 </div>
 
