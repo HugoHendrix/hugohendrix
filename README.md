@@ -43,7 +43,10 @@ Atualmente estou trabalhado há 7 anos como Operador de Monitoramento. 💙</p>
 
  <p><strong><a href="https://codepen.io/hugo_hendrix/full/VwrjjLv">Desafio FreeCodeCamp - Technical Documentation Page Challenge (Clique aqui para ver).</a></strong>
   <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
-<br>Technical Documentation Page Challenge.<br> 
+<br>Technical Documentation Page Challenge.<br>
+  <p><strong><a href="https://codepen.io/hugo_hendrix/full/gOXLBYj">Desafio FreeCodeCamp - Personal Portolio Webpage Challenge (Clique aqui para ver).</a></strong>
+  <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
+<br>Technical Documentation Page Challenge.<br>
 
 </div>  
 <hr>
