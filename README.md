@@ -25,8 +25,10 @@
 
  <p><strong><a href="https://codepen.io/hugo_hendrix/full/gOXLBYj">Desafio FreeCodeCamp - Personal Portolio Webpage Challenge (Clique aqui para ver).</a></strong>
   <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
-<br>Technical Documentation Page Challenge.<br>
+<br><p>Esse é meu portifólio, inclui todos os exercícios que fiz para conclusão de desafios e fechamento de módulos. Foi uma experiência muito incrivel.💙 </p><br>
 
+ <hr>
+ <h3>Exercícios</h3>
 <p><strong> <a href="https://hugohendrix.github.io/projeto-android/" target="_blank">Projeto Android (Clique aqui para ver).</a></strong>
   <br>Fala sobre a criação e a evolução do mascote Android. Artigo simples, com HTML5 e CSS3 <strong>Semântico e Responsivo</strong>. 
   <br>Conteúdo realizado para conclusão do Desafio do <a href="https://www.cursoemvideo.com/">Curso em Video</a>.</p>
