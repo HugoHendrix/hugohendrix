@@ -55,17 +55,7 @@ Estou trabalhado há 7 anos como Operador de Monitoramento, foi aonde descobri m
  
  
  
- <h3>Com esses estudos pude aprender sobre:</h3>
- <ul>
- <li>A importância de entregar uma boa experiência para o usúario com um site <strong>Responsivo</strong> e <strong>Semântico.</strong></li>
-	<li>Psicologia, Harmonia e Significado das Cores.</li>
- 	<li>Tipografia, Anatomia, Família das Fontes, Peso e Estilo.</li>
-	<li>Direito de Uso de Imagens, Fomatos e Tamanhos.</li>
-	<li>Hierarquia de Títulos.</li>
-	<li>Variáveis em CSS, e como usar ID, CLASS, Pseudo Classes, Pseudo-elementos e suas diferenças.  </li>
-	<li>Grouping Tags, Semantic Tags, Box Shadow, Box Radious, Border Decoration entre outros.</li>
-	 
- </ul>
+##
 
 </div>  
 <hr>
