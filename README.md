@@ -44,7 +44,7 @@
   <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
 <br> Landing Page para completar o FreeCodeCamp Landing Page Challenge.<br> 
 A <a href="https://grtranssat.com.br/"><strong>Trans Sat</strong></a> é uma empresa que realiza serviços de Monitoramento e Gerenciamento de Risco há 21 anos.<br>
-Estou trabalhado há 7 anos como Operador de Monitoramento, foi aonde descobri meu amor por Tecnologias no geral e tive meu primeiro contato com outros desenvolvedores.💙</p>
+Estou trabalhado há 7 anos como Operador de Monitoramento, o lugar que me fez descobrir meu amor por tecnologias no geral e onde tive meu primeiro contato com outros desenvolvedores.</p>
 
  <p><strong><a href="https://codepen.io/hugo_hendrix/full/VwrjjLv">Desafio FreeCodeCamp - Technical Documentation Page Challenge (Clique aqui para ver).</a></strong>	 
   <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a> Technical Documentation Page Challenge.<br>Nesse artigo veja uma breve história sobre o <strong>HTML (HyperText Markup Language)</strong>, Conceito, Sintaxe e o seu criador <strong>Timothy John Berners-Lee.</strong>
