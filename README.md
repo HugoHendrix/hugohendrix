@@ -58,8 +58,8 @@ Estou trabalhado há 7 anos como Operador de Monitoramento, o lugar que me fez d
 		 
   
 
-<p><strong><a href="https://hugohendrix.github.io/kenzie-academy-bkb-projeto/">Projeto BKB + Kenzie Academy Brasil (Clique aqui para ver)</a></p></strong>
-	<p>Em parceria com a Burger King Brasil, a Kenzie Academy ministrou um projeto incrível. Foi muito bacana a oportunidade de aprender mais sobre Desenvolvimento WEB com um projeto real. O projeto abordou os princípios básicos do HTML, CSS E JS.</p>
+<p><strong><a href="https://hugohendrix.github.io/kenzie-academy-bkb-projeto/">Projeto BKB + Kenzie Academy Brasil (Clique aqui para ver)</a></strong>
+	<br>Em parceria com a Burger King Brasil, a Kenzie Academy ministrou um projeto incrível. Foi muito bacana a oportunidade de aprender mais sobre Desenvolvimento WEB com um projeto real. O projeto abordou os princípios básicos do HTML, CSS E JS. </p>
 
  
 
