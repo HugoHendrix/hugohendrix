@@ -61,7 +61,9 @@ Estou trabalhado há 7 anos como Operador de Monitoramento, o lugar que me fez d
 <p><strong><a href="https://hugohendrix.github.io/kenzie-academy-bkb-projeto/">Projeto BKB + Kenzie Academy Brasil (Clique aqui para ver)</a></strong>
 	<br>Em parceria com a Burger King Brasil, a Kenzie Academy ministrou um projeto incrível. Foi muito bacana a oportunidade de aprender mais sobre Desenvolvimento WEB com um projeto real. O projeto abordou os princípios básicos do HTML, CSS E JS. </p>
 
- 
+<p><strong><a href="https://hugohendrix.github.io/start-programacao/">Start na Carreira de Programação - Calculadora de Gorjeta 🧮 (Clique aqui para ver)</a></strong><br> Apresento a minha calculadora de gorjeta 👛
+Esse foi o meu resultado da participação do Mini Curso de HTML, CSS e Javascript da OneBitCode. A proposta da calculadora é apresentar uma sugestão de gorjeta mediante a satisfação com o atendimento.
+Ah! de mini curso, não tinha nada, foram super aulas do mestre Leonardo Scorza </p>
 
 
 </div>  
