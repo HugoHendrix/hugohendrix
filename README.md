@@ -93,7 +93,9 @@ Durante a maratona foi abordado sobre as variáveis no CSS.
 
 </p>
 
-
+<p><strong><a href="https://hugohendrix.github.io/slider-cards-pokemon/">🐛 MAPADEV WEEK - POKÉMON SLIDER CARDS (Clique aqui para ver)</a></strong><br>
+MapaDev Week com os gêmeos  Ricardo e Roberto Dias do Dev em Dobro, slide cards do pokémon, interativos com HTML, CSS e JS. ♥
+Eventou rolou entre 25/07/2077 à 30/07/2022.</p>
 
 
 </div>  
