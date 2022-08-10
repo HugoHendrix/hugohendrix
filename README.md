@@ -93,7 +93,7 @@ MapaDev Week com os gêmeos  Ricardo e Roberto Dias do Dev em Dobro, slide cards
 Eventou rolou entre 25/07/2077 à 30/07/2022.</p>
 
 <p><strong><a href="https://hugohendrix.github.io/Rocket-Coffee/">☕ Maratona Explorer 3.0 (Clique aqui para ver)</a></strong> <br>
-Nessa maratona da RocketSeat aprendi a desenvolver um cardápio digital onde é possível disponibilizar o acesso ao  usuário através de QR Code. <br>
+Nessa maratona (De 07 a 12 de agosto 2022) da RocketSeat aprendi a desenvolver um cardápio digital onde é possível disponibilizar o acesso ao  usuário através de QR Code. <br>
 Em uma lanchonete onde o QR code esteja visível na mesa, o cliente pode facilmente visualizar o cardápio com o seu celular e ter acesso ao cardápio.  🤩
 
 https://hugohendrix.github.io/Rocket-Coffee/
