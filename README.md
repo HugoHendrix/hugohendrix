@@ -22,12 +22,7 @@
 <br>
 <div>
 <h1>Projetos ✔️</h1>
-
-  <p><strong><a href="https://codepen.io/hugo_hendrix/full/gOXLBYj">Desafio FreeCodeCamp - Personal Portolio Webpage Challenge (Clique aqui para ver).</a></strong>
-  <br>Project idealized to earn the <strong>Responsive Web Design Certification</strong> from  <a href="https://www.freecodecamp.org/learn/">FreeCodeCamp.org</a>.
-<br>Esse é meu primeiro portifólio, inclui todos os exercícios que fiz até o momento. Esta sendo uma experiência muito incrível estudar Desenvolvimento Web.💙
-
-
+ 
 <p><strong> <a href="https://hugohendrix.github.io/projeto-android/" target="_blank">💚 Projeto Android (Clique aqui para ver).</a></strong>
   <br>Fala sobre a criação e a evolução do <strong>mascote Android</strong>, provavelmente você sabe que o sistema operacional <strong>Android</strong>, mantido pelo <strong>Google</strong> é um dos mais utilizados para dispositivos móveis em todo o mundo. Mas tavez você não saiba que o seu simpático mascote tem um nome e uma história muito curiosa? Pois acompanhe esse artigo para aprender muita coisa sobre esse robozinho. 
   <br>Conteúdo realizado para conclusão do Desafio do <a href="https://www.cursoemvideo.com/">Curso em Video</a>.</p> 
@@ -96,6 +91,15 @@ Durante a maratona foi abordado sobre as variáveis no CSS.
 <p><strong><a href="https://hugohendrix.github.io/slider-cards-pokemon/">🐛 MAPADEV WEEK - POKÉMON SLIDER CARDS (Clique aqui para ver)</a></strong><br>
 MapaDev Week com os gêmeos  Ricardo e Roberto Dias do Dev em Dobro, slide cards do pokémon, interativos com HTML, CSS e JS. ♥
 Eventou rolou entre 25/07/2077 à 30/07/2022.</p>
+
+<p><strong><a href="https://hugohendrix.github.io/Rocket-Coffee/">☕ Maratona Explorer 3.0 (Clique aqui para ver)</a></strong> <br>
+Nessa maratona da RocketSeat aprendi a desenvolver um cardápio digital onde é possível disponibilizar o acesso ao  usuário através de QR Code. <br>
+Em uma lanchonete onde o QR code esteja visível na mesa, o cliente pode facilmente visualizar o cardápio com o seu celular e ter acesso ao cardápio.  🤩
+
+https://hugohendrix.github.io/Rocket-Coffee/
+<div>
+   <img src="https://user-images.githubusercontent.com/75282590/183986987-e80f1051-aa8c-4fb2-bdb2-a1a41ddf8c89.png" width="120px">
+</div>
 
 
 </div>  
