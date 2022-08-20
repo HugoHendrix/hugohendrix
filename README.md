@@ -118,7 +118,7 @@ No Marketing Digital as chances de conversão em um layout responsivo aumentam s
 </div>
 </div>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)]
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 
 ##
