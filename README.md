@@ -1,19 +1,7 @@
 
 <h1> Olá, Mundo! 🌎</h1>
-<h3>Sou Hugo Hendrix e estou aprendendo Desenvolvimento Web. 🤓</h3>
-
-<p>Um eterno estudante e amante de tecnologia. 🧠</p>
-<p>Identifico-me com o front-end e UI/UX Design. 🖥️ </p>
+<h3>Sou Hugo Hendrix e estou aprendendo Desenvolvimento Front-end. 🤓</h3>
 <p>Estou me graduando em Superior de Tecnologia em Marketing Digital 🚀</p>
-
-<p><h3>Tenho interesse em aprender: </h3> 
- <ul>
-   <li><strong>Linguagens de Programação.</strong></li>
-   <li><strong>Metodologias Ágeis.</strong></li>
-   <li><strong>Data Science.</strong></li>
-   <li><strong>Blockchain.</strong></li>
-   <li><strong>Criptomoedas.</strong></li></p>
-  </ul>
 
 <h3>Contato</h3>
 <a href = "mailto:hugohendrixc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -109,6 +97,19 @@ Graças a maratona, aprendi conceitos do Flexbox (CSS) e responsividade.
 No Marketing Digital as chances de conversão em um layout responsivo aumentam simplesmente pela melhor experiência de compra. Um layout responsivo é elaborado para diferentes resoluções de tela. Ou seja, não importa a resolução da tela do dispositivo que seu visitante está utilizando, o layout irá se adaptar. </p>
 
 </div>  
+<br>
+<p><strong><a href="https://hugohendrix.github.io/semana-front-end-mundo-invertido/">🧙 SEMANA FRONT-END - MUNDO INVERTIDO (Clique aqui para ver)</a></strong><br>
+Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna.
+Eventou rolou entre 23/08/2022 A 25/08/2022.</p>
+<img width="22%" alt="Logo Mundo Invertido" src="https://hermes.digitalinnovation.one/files/assets/b7e3ecba-7de8-4459-81e5-6a7c99073e41.svg">
+<br>
+
+<p><strong><a href="https://631371c1a57e6.site123.me/">🍅 É DIA DE FEIRA! - RECEITAS SAUDÁVEIS E DICAS (Clique aqui para ver)</a></strong><br>
+Apresento meu projeto autoral “É dia de Feira! “, esse trabalho foi desenvolvido para as atividades de produção textual da faculdade. <br>
+A proposta inicial da atividade era criar uma arte visual com gatilhos mentais para despertar a necessidade no usuário de evitar o desperdício dos alimentos.<br>
+Durante a execução da tarefa fui tendo a consciência do desperdício diário de alimentos e que boa parte do desperdício ocorre nas casas. Não somente por aquelas frutas esquecidas ou verduras deixadas na geladeira, mas também pelo fato das pessoas não reutilizarem ou não saberem como reutilizar sobras dos alimentos, como caules, ramos, cascas e até mesmo sementes em alguns casos. <br>
+Utilizar cascas e sementes, reaproveitar grãos já cozidos para outros fins e congelar itens como frutas e legumes são medidas que podem contribuir para que os alimentos rendam mais.<br>
+Neste sentido, tive a ideia de realmente criar o site do "É dia de feira!", organizar esse conteúdo e apresentar a importância do planejamento na hora das compras, cuidados com os alimentos e receitas saudáveis que reaproveitam cascas, folhas e sementes. </p>
 <hr>
 <hr>
 
