@@ -107,7 +107,8 @@ Eventou rolou entre 23/08/2022 A 25/08/2022.</p>
 <p><strong><a href="https://631371c1a57e6.site123.me/">🍅 É DIA DE FEIRA! - RECEITAS SAUDÁVEIS E DICAS (Clique aqui para ver)</a></strong><br>
 Apresento meu projeto autoral “É dia de Feira! “, esse trabalho foi desenvolvido para as atividades de produção textual da faculdade. <br>
 A proposta inicial da atividade era criar uma arte visual com gatilhos mentais para despertar a necessidade no usuário de evitar o desperdício dos alimentos.<br>
-Durante a execução da tarefa fui tendo a consciência do desperdício diário de alimentos e que boa parte do desperdício ocorre nas casas. Não somente por aquelas frutas esquecidas ou verduras deixadas na geladeira, mas também pelo fato das pessoas não reutilizarem ou não saberem como reutilizar sobras dos alimentos, como caules, ramos, cascas e até mesmo sementes em alguns casos. <br>
+Durante a execução da tarefa fui tendo a consciência do desperdício diário de alimentos e que boa parte do desperdício ocorre nas casas. 
+<br >Não somente por aquelas frutas esquecidas ou verduras deixadas na geladeira, mas também pelo fato das pessoas não reutilizarem ou não saberem como reutilizar sobras dos alimentos, como caules, ramos, cascas e até mesmo sementes em alguns casos. <br>
 Utilizar cascas e sementes, reaproveitar grãos já cozidos para outros fins e congelar itens como frutas e legumes são medidas que podem contribuir para que os alimentos rendam mais.<br>
 Neste sentido, tive a ideia de realmente criar o site do "É dia de feira!", organizar esse conteúdo e apresentar a importância do planejamento na hora das compras, cuidados com os alimentos e receitas saudáveis que reaproveitam cascas, folhas e sementes. </p>
 <hr>
