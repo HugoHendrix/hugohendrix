@@ -111,6 +111,20 @@ Durante a execução da tarefa fui tendo a consciência do desperdício diário 
 <br >Não somente por aquelas frutas esquecidas ou verduras deixadas na geladeira, mas também pelo fato das pessoas não reutilizarem ou não saberem como reutilizar sobras dos alimentos, como caules, ramos, cascas e até mesmo sementes em alguns casos. <br>
 Utilizar cascas e sementes, reaproveitar grãos já cozidos para outros fins e congelar itens como frutas e legumes são medidas que podem contribuir para que os alimentos rendam mais.<br>
 Neste sentido, tive a ideia de realmente criar o site do "É dia de feira!", organizar esse conteúdo e apresentar a importância do planejamento na hora das compras, cuidados com os alimentos e receitas saudáveis que reaproveitam cascas, folhas e sementes. </p>
+
+<br>
+
+<p><strong><a href="https://hugohendrix.github.io/projeto-yoga/">🧘 Projeto Yoga (Clique aqui para ver)<a/></strong><br>
+Nesse projeto, o tema é sobre yoga. Utilizei as linguagens HTML e CSS, para criar uma landing page para um curso de yoga. <br>
+O objetivo é praticar o desenvolvimento front-end, a criação de uma identidade visual e utilizar a técnica de post carrossel do Instagram. <br>
+HTML (HyperText Markup Language) é a linguagem de marcação padrão para a criação de páginas da web.
+CSS (Cascading Style Sheets) Linguagem de Estilização. É o que você usa para dar estilo à sua página Web. <br>
+
+Identidade visual é a combinação de elementos visuais que refletem um nome, ideia, produto, empresa ou serviço.
+
+</p>
+
+
 <hr>
 <hr>
 
