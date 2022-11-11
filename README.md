@@ -1,7 +1,19 @@
 
 <h1> Olá, Mundo! 🌎</h1>
-<h3>Sou Hugo Hendrix e estou aprendendo Desenvolvimento Front-end. 🤓</h3>
-<p>Estou me graduando em Superior de Tecnologia em Marketing Digital 🚀</p>
+
+<p>Aqui é Hugo Hendrix, um estudante apaixonado por Marketing Digital e Desenvolvimento Front-end. Estou estudando inglês e linguagens de programação (HTML, CSS e JS). Estou me formando em Tecnologia em Marketing Digital.
+Quero ajudar as pessoas a abrirem seus próprios negócios. Sou pai de pet, tenho 4 cachorros e 1 gato, e sou apaixonado pela Letícia, minha esposa e companheira em tudo desde 2012. <br>
+
+Trabalho há 8 anos na Trans Sat Gerenciamento de Risco como operador monitorando caminhões com cargas com risco de roubo, utilizando o software Sasgc da SASCAR.
+Não só isso, mas tenho experiência em treinar e qualificar novos colaboradores, criando alvos (automação para lançamentos em locais definidos como seguros para veículos), rotas e contingências.</p>
+
+<br>
+
+<p>Hello World, this is Hugo Hendrix, a student passionate about Digital Marketing and Front-end Development. I'm studying English and programming languages (HTML, CSS and JS). I'm majoring in Technology in Digital Marketing. <br>
+I want to help people start their own businesses. I am a pet father, I have 4 dogs and 1 cat, and I am in love with Letícia, my wife and companion in everything since 2012.
+<br>
+I have been working for 8 years at Trans Sat Management Risk, as an operator monitoring trucks with loads at risk of theft, using SASCAR's Sasgc software.
+Not only that, but I have experience in training and qualifying new employees, creating targets (automation for launches in places defined as safe for vehicles), routes and contingencies.</p>
 
 <h3>Contato</h3>
 <a href = "mailto:hugohendrixc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
