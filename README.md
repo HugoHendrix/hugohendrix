@@ -135,7 +135,10 @@ CSS (Cascading Style Sheets) Linguagem de Estilização. É o que você usa para
 Identidade visual é a combinação de elementos visuais que refletem um nome, ideia, produto, empresa ou serviço.
 
 </p>
-
+	
+<br>
+	<p><strong><a href="https://hugohendrix.github.io/frontendweek/">⚖️ Front-Week - Pearson Hardman Landing page (Clique aqui para ver)<a/></strong><br>
+No evento, criamos uma Landing page para a Pearson Hardman, famoso escritório de advocacia de Nova York (Suits  - série da Netflix). <br>Projeto responsivo, com carrossel feito com JS.</p>
 
 <hr>
 <hr>
