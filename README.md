@@ -139,6 +139,28 @@ Identidade visual é a combinação de elementos visuais que refletem um nome, i
 <br>
 	<p><strong><a href="https://hugohendrix.github.io/frontendweek/">⚖️ Front-Week - Pearson Hardman Landing page (Clique aqui para ver)<a/></strong><br>
 No evento, criamos uma Landing page para a Pearson Hardman, famoso escritório de advocacia de Nova York (Suits  - série da Netflix). <br>Projeto responsivo, com carrossel feito com JS.</p>
+		
+<br>
+	<p><strong><a href="https://hugohendrix.github.io/criando-temas-com-css/"> 🎨 Trocando Tema com CSS sem usar JavaScript (Clique aqui para ver)</a></strong><br>A pseudoclasse CSS funcional representa:has().
+Um elemento se algum dos seletores relativos que são passados como um argumento corresponder a pelo menos um elemento quando ancorado nesse elemento. Essa pseudoclasse apresenta uma maneira de selecionar um elemento pai ou um elemento irmão anterior em relação a um elemento de referência, usando uma lista de seletores relativa de perdão como um argumento.
+
+Observe que, se a :has() própria pseudoclasse não for suportada em um navegador, todo o bloco seletor falhará (a menos que :has()ela própria esteja em uma lista de seletores indulgente, como em :is()e :where().
+
+Verifique como anda o uso de novas funcionalidades no site <a href="https://caniuse.com/">caniuse.com</a> </p>
+		
+		
+<br>
+	<p><strong><a href="https://hugohendrix.github.io/god-of-war-ragnarok/"> 🪓 God of War Ragnarök Home Page de lançamento (Clique aqui para ver)</a></strong><br>O projeto simula a home page do lançamento do jogo God of War Ragnarök. Durantes o evento tive contato pela primeira vez com o SASS e entendi a importância e a utilidade de compilar o CSS para ter um melhor desempenho. 
+
+Para o marketing digital, um site com design bonito e com carregamento rápido, com certeza, influência na decisão favorável a conversão. As animações deixam a home page mais fluida e agradável de visitar,  isso impacta diretamente na experiência do usuário.   
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+HTML (HyperText Markup Language).
+CSS (Cascading Style Sheets).
+SASS ( Syntactically Awesome Stylesheet).
+JS (JavaScript).</p>
+
 
 <hr>
 <hr>
