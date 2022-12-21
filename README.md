@@ -161,6 +161,21 @@ CSS (Cascading Style Sheets).
 SASS ( Syntactically Awesome Stylesheet).
 JS (JavaScript).</p>
 
+<br>
+
+
+<p><strong><a href="https://hugohendrix.github.io/Calculadora-de-IMC/
+" target="_blank"> 🧮 Calculadora de IMC (Clique aqui para ver) </a></strong></p>
+
+
+Para dar continuidade nos estudos e praticar o desenvolvimento na web. Nesse projeto desenvolvi uma calculadora de IMC (Índice de Massa Corpórea).
+Pratiquei manipulação de DOM, funções e eventos com JS. Quer descobrir seu IMC? Insira seu peso e sua altura nos campos do link abaixo e compare com os índices da tabela.
+
+
+Obrigado ao  Professor Matheus Battisti (Hora de Codar).
+Conheça a Comunidade:
+https://horadecodar.com.br/comunidade-hora-de-codar/
+
 
 <hr>
 <hr>
