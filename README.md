@@ -176,6 +176,21 @@ Obrigado ao  Professor Matheus Battisti (Hora de Codar).
 Conheça a Comunidade:
 https://horadecodar.com.br/comunidade-hora-de-codar/
 
+<br>
+
+<p><strong><a href="https://hugohendrix.github.io/balle-bot-lp/" target="_blank"> 🤖 Landing Page BalleBot - Rafaella Ballerini
+ (Clique aqui para ver) </a></strong> <br>
+Para dar continuidade nos estudos de desenvolvimento na WEB, desenvolvi a landing page para Balle bot do discord da comunidade na Rafaella Ballerini. <br>
+	 Foi abordado definições de termos bastantes utilizados na internet (Flexbox, Landing Page, Discord e bot) e os conceitos básicos de HTML e CSS. Gostaria de agradecer imensamente a instrutora Rafaella Ballerini por transmitir seus conhecimentos de forma didática e natural.
+</p>
+
+<br>
+
+<p><strong><a href="https://hugohendrix.github.io/cadastro-de-devs-form/" target="_blank"> 🧑🏽‍💻 Praticando desenvolvimento de Formulário com HTML e CSS - Rafaella Ballerini
+ (Clique aqui para ver) </a></strong> <br>
+O formulário HTML é uma ferramenta que permite aos usuários do site inserir e enviar dados através da Internet. Ele é composto por um ou mais elementos de formulário, como caixas de texto, botões, menus suspenso e outros elementos de entrada, usados para coletar informações do usuário.
+</p>
+
 
 <hr>
 <hr>
