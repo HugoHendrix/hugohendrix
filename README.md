@@ -191,6 +191,13 @@ Para dar continuidade nos estudos de desenvolvimento na WEB, desenvolvi a landin
 O formulário HTML é uma ferramenta que permite aos usuários do site inserir e enviar dados através da Internet. Ele é composto por um ou mais elementos de formulário, como caixas de texto, botões, menus suspenso e outros elementos de entrada, usados para coletar informações do usuário.
 </p>
 
+<p><strong><a href="https://hugohendrix.github.io/tela-de-login-html-css/" target="_blank"> 🔒 TELA DE LOGIN COM TEMA DARK | HTML + CSS
+ (Clique aqui para ver) </a></strong> <br>
+Para dar continuidade nos estudos, segui as instruções do video no Youtube, Markzuel. Nesse projeto foi desenvolvido uma página de login e senha com uma animação incrível.
+
+
+</p>
+
 
 <hr>
 <hr>
