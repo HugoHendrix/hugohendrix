@@ -194,9 +194,18 @@ O formulário HTML é uma ferramenta que permite aos usuários do site inserir e
 <p><strong><a href="https://hugohendrix.github.io/tela-de-login-html-css/" target="_blank"> 🔒 TELA DE LOGIN COM TEMA DARK | HTML + CSS
  (Clique aqui para ver) </a></strong> <br>
 Para dar continuidade nos estudos, segui as instruções do video no Youtube, Markzuel. Nesse projeto foi desenvolvido uma página de login e senha com uma animação incrível.
+</p>
+ 
+ <br>
+ 
+ <p><strong><a href="https://hugohendrix.github.io/projeto-devlinks/" target="_blank"> 💻 DEV LINKS - Agregador de Links da RocketSeat (Clique aqui para ver) </a></strong> <br>
+Nesse incrível projeto da RocketSeat, o educador, Maik Brito nos orinetou para criação de um agregador de links para usar como cartão de visitas online!
+
+
 
 
 </p>
+
 
 
 <hr>
