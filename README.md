@@ -206,7 +206,7 @@ Nesse incrível projeto da RocketSeat, o educador, Maik Brito nos orinetou para 
 
 
  <p><strong><a href="https://hugohendrix.github.io/traveller-tourism-agency/" target="_blank">✈️ Traveller Agência de Turismo (Clique aqui para ver) </a></strong> <br>
-Dando continuidade ao estudos de desenvolvimento WEB, nese projeto, estudei sobre mais sobre media queries e as metas tags.
+Dando continuidade ao estudos de desenvolvimento WEB, nesse projeto, estudei mais sobre media queries e as metas tags. Com apenas HTML e CSS densevolvi uma landing page para de agência de turismo fictícia.
 
 Meta tags. são tags HTML que fornecem informações sobre uma página para os mecanismos de busca. Elas geralmente ficam no cabeçalho de uma página e incluem informações como o título da página, uma descrição resumida do conteúdo e palavras-chave relacionadas à página
 
