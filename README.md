@@ -1,7 +1,8 @@
 
 <h1> Olá, Mundo! 🌎</h1>
 
-<p>Aqui é Hugo Hendrix, um estudante apaixonado por Marketing Digital e Desenvolvimento Front-end. Estou estudando inglês e linguagens de programação (HTML, CSS e JS). Estou me formando em Tecnologia em Marketing Digital.
+<p>Aqui é Hugo Hendrix, um estudante apaixonado por Marketing Digital e Desenvolvimento Front-end. Estou estudando inglês e linguagens de programação (HTML, CSS e JS). Estou me formando em Superior de Tecnologia em Marketing Digital.
+
 Quero ajudar as pessoas a abrirem seus próprios negócios. Sou pai de pet, tenho 4 cachorros e 1 gato, e sou apaixonado pela Letícia, minha esposa e companheira em tudo desde 2012. <br>
 
 Trabalho há 8 anos na Trans Sat Gerenciamento de Risco como operador, monitorando caminhões com cargas com risco de roubo, utilizando o software Sasgc da SASCAR.
