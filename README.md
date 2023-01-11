@@ -200,11 +200,20 @@ Para dar continuidade nos estudos, segui as instruções do video no Youtube, Ma
  
  <p><strong><a href="https://hugohendrix.github.io/projeto-devlinks/" target="_blank"> 💻 DEV LINKS - Agregador de Links da RocketSeat (Clique aqui para ver) </a></strong> <br>
 Nesse incrível projeto da RocketSeat, o educador, Maik Brito nos orinetou para criação de um agregador de links para usar como cartão de visitas online!
-
-
-
-
 </p>
+
+<br>
+
+
+ <p><strong><a href="https://hugohendrix.github.io/traveller-tourism-agency/" target="_blank">✈️ Traveller Agência de Turismo (Clique aqui para ver) </a></strong> <br>
+Dando continuidade ao estudos de desenvolvimento WEB, nese projeto, estudei sobre mais sobre media queries e as metas tags.
+
+Meta tags. são tags HTML que fornecem informações sobre uma página para os mecanismos de busca. Elas geralmente ficam no cabeçalho de uma página e incluem informações como o título da página, uma descrição resumida do conteúdo e palavras-chave relacionadas à página
+
+As meta tags também podem incluir instruções para os mecanismos de busca sobre como indexar a página e lidar com conteúdo dinâmico.
+</p>
+
+
 
 
 
