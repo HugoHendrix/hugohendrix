@@ -215,7 +215,11 @@ As meta tags também podem incluir instruções para os mecanismos de busca sobr
 </p>
 
 
+ <p><strong><a href="https://hugohendrix.github.io/super-mario-bros-lp/" target="_blank">🍄 Super Mário Bros - Evento do zero ao programador contratado.  (Clique aqui para ver) </a></strong> <br>
+Landing page do filme do Super Mário Bros - Evento do zero ao programador contratado - DEV em Dobro. 16/01 à 22/01.
 
+
+</p>
 
 
 <hr>
