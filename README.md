@@ -114,7 +114,7 @@ No Marketing Digital as chances de conversão em um layout responsivo aumentam s
 <p><strong><a href="https://hugohendrix.github.io/semana-front-end-mundo-invertido/">🧙 SEMANA FRONT-END - MUNDO INVERTIDO (Clique aqui para ver)</a></strong><br>
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna.
 Eventou rolou entre 23/08/2022 A 25/08/2022.</p>
-<img width="22%" alt="Logo Mundo Invertido" src="https://hermes.digitalinnovation.one/files/assets/b7e3ecba-7de8-4459-81e5-6a7c99073e41.svg">
+<img width="22%" alt="Logo Mundo Invertido" src="https://raw.githubusercontent.com/HugoHendrix/semana-front-end-mundo-invertido/90c52cd43db0070e2f7e205aeaceddabc4061b3d/assets/images/banner/logo.svg">
 <br>
 
 <p><strong><a href="https://631371c1a57e6.site123.me/">🍅 É DIA DE FEIRA! - RECEITAS SAUDÁVEIS E DICAS (Clique aqui para ver)</a></strong><br>
