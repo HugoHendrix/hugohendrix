@@ -1,20 +1,16 @@
 
 <h1> Olá, Mundo! 🌎</h1>
 
-<p>Aqui é Hugo Hendrix, um estudante apaixonado por Marketing Digital e Desenvolvimento Front-end. Estou estudando inglês e linguagens de programação (HTML, CSS e JS). Estou me formando em Superior de Tecnologia em Marketing Digital.
+Olá, meu nome é Hugo Hendrix e sou um estudante apaixonado por Marketing Digital e Desenvolvimento Front-end. Atualmente, estou dedicado ao estudo de inglês e linguagens de programação como HTML, CSS e JS. Em breve, me formarei em Tecnologia em Marketing Digital.
 
-Quero ajudar as pessoas a abrirem seus próprios negócios. Sou pai de pet, tenho 4 cachorros e 1 gato, e sou apaixonado pela Letícia, minha esposa e companheira em tudo desde 2012. <br>
+Meu objetivo é ajudar pessoas a abrirem seus próprios negócios e alcançarem sucesso na era digital. Além disso, sou pai de quatro cachorros e um gato e tenho a sorte de compartilhar minha vida com a Letícia, minha esposa e companheira em tudo desde 2012.
 
-Trabalho há 8 anos na Trans Sat Gerenciamento de Risco como operador, monitorando caminhões com cargas com risco de roubo, utilizando o software Sasgc da SASCAR.
-Tenho experiência em treinar e qualificar novos colaboradores, criando rotas e alvos (automação para lançamentos em locais definidos como seguros para veículos).</p>
+Ao longo dos últimos 8 anos, trabalhei na Trans Sat Gerenciamento de Risco como operador de monitoramento de caminhões com cargas de alto risco de roubo, utilizando o software Sasgc da SASCAR. Além disso, também desenvolvi habilidades em treinar e qualificar novos colaboradores, criando rotas, metas e estratégias para automação em locais seguros para veículos.
+
+Estou ansioso para continuar desenvolvendo minhas habilidades e contribuir para o crescimento de empresas e pessoas em busca de soluções inovadoras e eficientes na área de Marketing Digital e Desenvolvimento Front-end.
 
 <br>
 
-<p>Hello World, this is Hugo Hendrix, a student passionate about Digital Marketing and Front-end Development. I'm studying English and programming languages (HTML, CSS and JS). I'm majoring in Technology in Digital Marketing. <br>
-I want to help people start their own businesses. I am a pet father, I have 4 dogs and 1 cat, and I am in love with Letícia, my wife and companion in everything since 2012.
-<br>
-I have been working for 8 years at Trans Sat Management Risk, as an operator, monitoring trucks with loads at risk of theft, using SASCAR's Sasgc software.
-Not only that, but I have experience in training and qualifying new employees, creating targets (automation for launches in places defined as safe for vehicles), routes and contingencies.</p>
 
 <h3>Contato</h3>
 <a href = "mailto:hugohendrixc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
