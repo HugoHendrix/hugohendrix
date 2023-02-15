@@ -1,6 +1,11 @@
 
 <h1> Olá, Mundo! 🌎</h1>
 
+<table align="right">
+ <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README.md">Brazil: Português</a></td></tr> 
+ <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">US: English</a></td></tr>
+</table>
+
 Olá, meu nome é Hugo Hendrix e sou um estudante apaixonado por Marketing Digital e Desenvolvimento Front-end. Atualmente, estou dedicado ao estudo de inglês e linguagens de programação como HTML, CSS e JS. Em breve, me formarei em Tecnologia em Marketing Digital.
 
 Meu objetivo é ajudar pessoas a abrirem seus próprios negócios e alcançarem sucesso na era digital. Além disso, sou pai de quatro cachorros e um gato e tenho a sorte de compartilhar minha vida com a Letícia, minha esposa e companheira em tudo desde 2012.
