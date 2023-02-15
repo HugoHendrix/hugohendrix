@@ -1,5 +1,10 @@
 <h1> Hello, World 🌎</h1>
 
+<table align="right">
+ <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README.md">:Brazil: Português</a></td></tr> 
+ <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">:us: English</a></td></tr>
+</table>
+
 Hello, my name is Hugo Hendrix and I am a passionate student of Digital Marketing and Front-end Development. Currently, I am dedicated to studying English and programming languages such as HTML, CSS, and JS. Soon, I will be graduating in Digital Marketing Technology.
 
 My goal is to help people open their own businesses and achieve success in the digital age. I am also a proud pet parent of four dogs and a cat, and I am fortunate to share my life with Letícia, my wife and partner in everything since 2012.
