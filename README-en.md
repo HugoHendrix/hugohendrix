@@ -1,8 +1,8 @@
 <h1> Hello, World 🌎</h1>
 
 <table align="right">
- <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README.md">:Brazil: Português</a></td></tr> 
- <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README.md">Brazil: Português</a></td></tr> 
+ <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">US: English</a></td></tr>
 </table>
 
 Hello, my name is Hugo Hendrix and I am a passionate student of Digital Marketing and Front-end Development. Currently, I am dedicated to studying English and programming languages such as HTML, CSS, and JS. Soon, I will be graduating in Digital Marketing Technology.
