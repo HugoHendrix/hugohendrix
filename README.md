@@ -6,13 +6,15 @@
  <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">US: English</a></td></tr>
 </table>
 
-Olá, meu nome é Hugo Hendrix e sou um estudante apaixonado por Marketing Digital e Desenvolvimento Front-end. Atualmente, estou dedicado ao estudo de inglês e linguagens de programação como HTML, CSS e JS. Em breve, me formarei em Tecnologia em Marketing Digital.
+Olá! Meu nome é Hugo Hendrix, e sou um profissional formado em Superior de Tecnologia em Marketing Digital e apaixonado por Desenvolvimento Front-end. Atualmente, estou dedicado ao estudo de inglês e aprimorando minhas habilidades em linguagens de programação, como HTML, CSS e JS.
 
-Meu objetivo é ajudar pessoas a abrirem seus próprios negócios e alcançarem sucesso na era digital. Além disso, sou pai de quatro cachorros e um gato e tenho a sorte de compartilhar minha vida com a Letícia, minha esposa e companheira em tudo desde 2012.
+Meu objetivo é ajudar pessoas a impulsionarem seus negócios e alcançarem o sucesso na era digital.
 
-Ao longo dos últimos 8 anos, trabalhei na Trans Sat Gerenciamento de Risco como operador de monitoramento de caminhões com cargas de alto risco de roubo, utilizando o software Sasgc da SASCAR. Além disso, também desenvolvi habilidades em treinar e qualificar novos colaboradores, criando rotas, metas e estratégias para automação em locais seguros para veículos.
+Ao longo dos últimos 8 anos, tive uma jornada enriquecedora na área de gerenciamento de risco, atuando como operador de monitoramento de caminhões com cargas de alto risco de roubo, utilizando o software Sasgc da SASCAR. Também desenvolvi habilidades em treinar e qualificar novos colaboradores, criando rotas, metas e estratégias para automação em locais seguros para veículos.
 
-Estou ansioso para continuar desenvolvendo minhas habilidades e contribuir para o crescimento de empresas e pessoas em busca de soluções inovadoras e eficientes na área de Marketing Digital e Desenvolvimento Front-end.
+Estou ansioso para continuar crescendo profissionalmente e contribuir ainda mais para o desenvolvimento de empresas e pessoas, oferecendo soluções inovadoras e eficientes na área de Marketing Digital e Desenvolvimento Front-end.
+
+Juntos, podemos ir mais longe! Vamos continuar evoluindo e alcançando novos horizontes no mundo digital! 🚀💼 #MarketingDigital #DesenvolvimentoFrontEnd #CrescimentoProfissional #Inovação #LinkedinLearning
 
 <br>
 
