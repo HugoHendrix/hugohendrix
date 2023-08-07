@@ -5,13 +5,15 @@
  <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">US: English</a></td></tr>
 </table>
 
-Hello, my name is Hugo Hendrix and I am a passionate student of Digital Marketing and Front-end Development. Currently, I am dedicated to studying English and programming languages such as HTML, CSS, and JS. Soon, I will be graduating in Digital Marketing Technology.
+Hello! My name is Hugo Hendrix, and I am a graduate of Digital Marketing Technology and passionate about Front-end Development. Currently, I am dedicated to studying English and honing my skills in programming languages such as HTML, CSS, and JS.
 
-My goal is to help people open their own businesses and achieve success in the digital age. I am also a proud pet parent of four dogs and a cat, and I am fortunate to share my life with Letícia, my wife and partner in everything since 2012.
+I aim to help people boost their businesses and succeed in the digital era.
 
-Over the past 8 years, I have worked at Trans Sat Gerenciamento de Risco as a monitoring operator for trucks carrying high-risk loads, using the SASCAR Sasgc software. Additionally, I have developed skills in training and qualifying new employees, creating routes, goals, and strategies for automation in secure locations for vehicles.
+Over the past 8 years, I have had an enriching journey in the field of risk management, working as a truck monitoring operator with high-risk cargo for theft, using the Sasgc software from SASCAR. I have also developed skills in training and qualifying new colleagues, and creating routes, goals, and strategies for automation in secure locations for vehicles.
 
-I am excited to continue developing my skills and contributing to the growth of companies and individuals looking for innovative and efficient solutions in the area of Digital Marketing and Front-end Development.
+I am excited to continue growing professionally and making even more contributions to the development of companies and individuals, offering innovative and efficient solutions in the Digital Marketing and Front-end Development field.
+
+Together, we can go further! Let's keep evolving and reaching new horizons in the digital world! 🚀💼 #DigitalMarketing #FrontEndDevelopment #ProfessionalGrowth #Innovation #LinkedinLearning
 
 
 ## 🔗 Links
