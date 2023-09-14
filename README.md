@@ -1,30 +1,48 @@
 
-<h1> Olá, Mundo! 🌎</h1>
+Olá! 👋 Meu nome é Hugo Hendrix
+================================
 
 <table align="right">
  <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README.md">Brazil: Português</a></td></tr> 
  <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">US: English</a></td></tr>
 </table>
 
-Olá! Meu nome é Hugo Hendrix, e sou um profissional formado em Superior de Tecnologia em Marketing Digital e apaixonado por Desenvolvimento Front-end. Atualmente, estou dedicado ao estudo de inglês e aprimorando minhas habilidades em linguagens de programação, como HTML, CSS e JS.
 
-Meu objetivo é ajudar pessoas a impulsionarem seus negócios e alcançarem o sucesso na era digital.
+Desenvolvedor Front-end | Especialista em Marketing Digital
+------------------------------------------------------------
 
-Ao longo dos últimos 8 anos, tive uma jornada enriquecedora na área de gerenciamento de risco, atuando como operador de monitoramento de caminhões com cargas de alto risco de roubo, utilizando o software Sasgc da SASCAR. Também desenvolvi habilidades em treinar e qualificar novos colaboradores, criando rotas, metas e estratégias para automação em locais seguros para veículos.
+Profissional experiente em Marketing Digital e Desenvolvimento Front-end com uma sólida formação em gerenciamento de riscos. Comprometido em unir conhecimentos tecnológicos com expertise em marketing para alcançar o sucesso em um cenário digital dinâmico. Proficiente em HTML, CSS e JS, e dedicado à aprendizagem contínua.
 
-Estou ansioso para continuar crescendo profissionalmente e contribuir ainda mais para o desenvolvimento de empresas e pessoas, oferecendo soluções inovadoras e eficientes na área de Marketing Digital e Desenvolvimento Front-end.
+**Experiência Profissional** <br>
+Operador de Monitoramento de Caminhões | Trans Sat Gerenciamento de Risco
 
-Juntos, podemos ir mais longe! Vamos continuar evoluindo e alcançando novos horizontes no mundo digital! 🚀💼 #MarketingDigital #DesenvolvimentoFrontEnd #CrescimentoProfissional #Inovação #LinkedinLearning
+Monitorei cargas de alto risco, implementando protocolos de segurança para mitigar roubos. Utilizei o software Sasgc da SASCAR para análise de dados em tempo real. Facilitei o treinamento e certificação de novos membros da equipe. Criei rotas otimizadas, estabeleci metas de desempenho e formulei estratégias de automação para proteger veículos e cargas. Realizo essas atividades há mais de 8 anos.
 
-<br>
+**Habilidades-Chave** 
 
-<h1>Contato</h1>
-<a href = "mailto:hugohendrixc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hugohendrix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bio.link/hugohendrix)
+- Estratégia de Marketing Digital 
+- Desenvolvimento Front-end 
+- Análise de Dados em Tempo Real 
+- Treinamento e Desenvolvimento de Equipe 
+- Protocolos de Segurança 
+- Otimização de Rotas 
 
+**Educação** <br>
+Superior de Tecnologia em Marketing Digital <br>
+Faculdade Anhanguera
 
+* 🌍 Estou baseado em São José do Rio Preto - São Paulo - Brasil
+* 🖥️ Veja meu portfólio em [Bio Link](http://bio.link/hugohendrix)
+* ✉️ Você pode entrar em contato comigo em [hugohendrixc@gmail.com](mailto:hugohendrixc@gmail.com)
+* 🧠 Estou aprendendo Bootstrap, React e Node JS
 
+### Habilidades
 
+<p align="left">
+<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
+### Redes Sociais
+
+<p align="left"> 
+<a href="https://www.github.com/hugohendrix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/hugo_hendrix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hugohendrix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
