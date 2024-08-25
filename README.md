@@ -32,7 +32,12 @@ Recentemente, assumi o cargo de Desenvolvedor Front-end na Sunset Agência de Ma
 
 ### Redes Sociais
 
-<p align="left"> 
-<a href="https://www.github.com/hugohendrix" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" /> </a>
-<a href="https://www.linkedin.com/in/hugohendrix" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /> </a>
-</p>
+
+<span>
+<a href="https://www.linkedin.com/in/hugohendrix" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /> 
+</a>
+</span>
+
+
+
