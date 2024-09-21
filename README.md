@@ -1,43 +1,47 @@
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B027&random=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B+Meu+nome+%C3%A9+Hugo+Hendrix...;Sou+um+desenvolvedor+front+end.)](https://git.io/typing-svg)
 
 <table align="right">
- <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README.md">Brazil: Português</a></td></tr> 
- <tr><td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">US: English</a></td></tr>
+ <tr>
+   <td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README.md">🇧🇷 Brazil: Português</a></td>
+ </tr> 
+ <tr>
+   <td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">🇺🇸 US: English</a></td>
+ </tr>
 </table>
 
+## 👨‍💻 **Sobre Mim**
+Olá! 👋 Eu sou **Hugo Hendrix**, um desenvolvedor front-end apaixonado por criar **experiências digitais envolventes**. Com formação em **Marketing Digital** e **Desenvolvimento Front-end**, tenho experiência em construir interfaces funcionais e visualmente atraentes, sempre com foco em **UI/UX**.
 
-### **Sobre Mim:**
-Olá! 👋 Sou Hugo Hendrix, um desenvolvedor front-end apaixonado por criar experiências digitais envolventes e eficazes. Formei-me em Tecnologia em Marketing Digital pela Faculdade Anhanguera e concluí a Formação Front-end pela Ada Tech em parceria com o iFood. Atualmente, estou aprimorando minhas habilidades em linguagens de programação como HTML, CSS, Bootstrap, PHP e JavaScript, enquanto busco aprofundar meu conhecimento em inglês.
+Atualmente, trabalho na **Sunset Agência de Marketing**, onde contribuo para o desenvolvimento de **sites** e **interfaces** que dão suporte a campanhas publicitárias, sempre priorizando a **experiência do usuário**.
 
-Recentemente, assumi o cargo de Desenvolvedor Front-end na Sunset Agência de Marketing, onde tenho o privilégio de desenvolver sites e interfaces que impulsionam as campanhas publicitárias de nossos clientes, focando em uma experiência do usuário excepcional.
+## 🚀 **Habilidades e Ferramentas**
+- **Front-end**: HTML, CSS, JavaScript, Bootstrap
+- **Back-end**: PHP
+- **Ferramentas de Desenvolvimento**: Git, Visual Studio Code
+- **Design**: Figma, Photoshop (UI/UX)
 
-### **Contato:**
-* 🌍 Localizado em São José do Rio Preto - São Paulo - Brasil
-* 🖥️ Veja meu portfólio em [Bio Link](http://bio.link/hugohendrix)
-* ✉️ Entre em contato comigo em [hugohendrixc@gmail.com](mailto:hugohendrixc@gmail.com)
+## 📚 **Educação**
+- **Superior em Marketing Digital** | Faculdade Anhanguera (Concluído)
+- **Formação Front-end** | Programa Ver Ser Tech - Ada Tech e iFood (Concluído)
 
-### **Educação:**
-- **Superior de Tecnologia em Marketing Digital | Faculdade Anhanguera (Completo)**
-- **Programa Ver Ser Tech - Formação Front End, Bolsista em parceria com a ADA Tech e iFood. (Concluído)**   
+## 💼 **Experiência Profissional**
+### **Desenvolvedor Front-end Jr | Sunset Agência de Marketing**
+- Desenvolvimento de sites e interfaces para campanhas publicitárias.
+- Implementação de **melhores práticas de UI/UX** para garantir uma experiência de navegação otimizada.
 
-### **Experiência Profissional:**
-**Desenvolvedor Front-end Jr | Sunset Agência de Marketing Digital**
-- Desenvolvimento de sites para rodar campanhas publicitárias dos clientes.
-- Foco em UI/UX para garantir uma experiência do usuário excepcional.
+### **Operador de Monitoramento | Trans Sat Gerenciamento de Risco**
+- Supervisão de cargas de alto risco e protocolos de segurança.
+- Liderança em treinamentos e otimização de processos.
 
-**Operador de Monitoramento de Caminhões | Trans Sat Gerenciamento de Risco**
-- Monitoramento de cargas de alto risco e implementação de protocolos de segurança.
-- Liderança em treinamento de novos colaboradores e desenvolvimento de estratégias para otimização de rotas.
-- Contribuição de mais de 9 anos para o sucesso da empresa.
+## 📬 **Entre em Contato**
+- 🌍 **Localização**: São José do Rio Preto - SP, Brasil
+- 🌐 **Portfólio**: [Bio Link](http://bio.link/hugohendrix)
+- ✉️ **Email**: [hugohendrixc@gmail.com](mailto:hugohendrixc@gmail.com)
 
-### Redes Sociais
-
-
-<span>
-<a href="https://www.linkedin.com/in/hugohendrix" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /> 
+## 🌐 **Redes Sociais**
+<a href="https://www.linkedin.com/in/hugohendrix" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" alt="LinkedIn" />
 </a>
-</span>
-
-
 
