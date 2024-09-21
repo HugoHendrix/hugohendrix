@@ -18,9 +18,8 @@ Atualmente, trabalho na **Sunset Agência de Marketing**, onde contribuo para o 
 
 ## 🚀 **Habilidades e Ferramentas**
 - **Front-end**: HTML, CSS, JavaScript, Bootstrap
-- **Back-end**: PHP
+- **Back-end**: PHP e MySQL
 - **Ferramentas de Desenvolvimento**: Git, Visual Studio Code
-- **Design**: Figma, Photoshop (UI/UX)
 
 ## 📚 **Educação**
 - **Superior em Marketing Digital** | Faculdade Anhanguera (Concluído)
