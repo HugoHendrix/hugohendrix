@@ -14,7 +14,7 @@
 ## 👨‍💻 **Sobre Mim**
 Olá! 👋 Eu sou **Hugo Hendrix**, um desenvolvedor front-end apaixonado por criar **experiências digitais envolventes**. Com formação em **Marketing Digital** e **Desenvolvimento Front-end**, tenho experiência em construir interfaces funcionais e visualmente atraentes, sempre com foco em **UI/UX**.
 
-Atualmente, trabalho na **Sunset Agência de Marketing**, onde contribuo para o desenvolvimento de **sites** e **interfaces** que dão suporte a campanhas publicitárias, sempre priorizando a **experiência do usuário**.
+Recentemente, atuei como Desenvolvedor Front-end na **Sunset Agência de Marketing**, onde contribuí para o desenvolvimento de **sites** e **interfaces** que suportavam campanhas publicitárias, sempre priorizando a **experiência do usuário**. Atualmente, estou **disponível para novas oportunidades**, buscando projetos desafiadores para aplicar e aprimorar minhas habilidades.
 
 ## 🚀 **Habilidades e Ferramentas**
 - **Front-end**: HTML, CSS, JavaScript, Bootstrap
@@ -26,9 +26,11 @@ Atualmente, trabalho na **Sunset Agência de Marketing**, onde contribuo para o 
 - **Formação Front-end** | Programa Ver Ser Tech - Ada Tech e iFood (Concluído)
 
 ## 💼 **Experiência Profissional**
-### **Desenvolvedor Front-end Jr | Sunset Agência de Marketing**
+### **Desenvolvedor Front-end | Sunset Agência de Marketing**
 - Desenvolvimento de sites e interfaces para campanhas publicitárias.
 - Implementação de **melhores práticas de UI/UX** para garantir uma experiência de navegação otimizada.
+- Trabalhei em colaboração com equipes de design e marketing para criar soluções digitais que impactaram diretamente os resultados dos clientes.
+- **Atualmente disponível para novas oportunidades**.
 
 ### **Operador de Monitoramento | Trans Sat Gerenciamento de Risco**
 - Supervisão de cargas de alto risco e protocolos de segurança.
