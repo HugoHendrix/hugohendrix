@@ -12,33 +12,51 @@
 </table>
 
 ## 👨‍💻 **Sobre Mim**
-Olá! 👋 Eu sou **Hugo Hendrix**, um desenvolvedor front-end apaixonado por criar **experiências digitais envolventes**. Com formação em **Marketing Digital** e **Desenvolvimento Front-end**, tenho experiência em construir interfaces funcionais e visualmente atraentes, sempre com foco em **UI/UX**.
 
-Recentemente, atuei como Desenvolvedor Front-end na **Sunset Agência de Marketing**, onde contribuí para o desenvolvimento de **sites** e **interfaces** que suportavam campanhas publicitárias, sempre priorizando a **experiência do usuário**. Atualmente, estou **disponível para novas oportunidades**, buscando projetos desafiadores para aplicar e aprimorar minhas habilidades.
+Olá! 👋 Eu sou **Hugo Hendrix**, um desenvolvedor front-end com paixão por criar **experiências digitais envolventes** e interfaces focadas em **UI/UX**. Tenho formação em **Marketing Digital** e **Desenvolvimento Front-end**, com experiência em construir soluções visuais que impulsionam negócios e campanhas.
 
-## 🚀 **Habilidades e Ferramentas**
+Atuei recentemente como Desenvolvedor Front-end na **Sunset Agência de Marketing**, onde colaborei no desenvolvimento de **sites e interfaces** que suportavam campanhas publicitárias e otimizavam a experiência do usuário. Atualmente, estou **disponível para novas oportunidades** e pronto para desafios que ampliem minhas habilidades em desenvolvimento web.
+
+## 🚀 O que eu ofereço
+
+### 🌐 Criação de Sites Institucionais
+
+Crio **sites institucionais** personalizados, projetados para refletir a identidade da sua marca com **design moderno**, navegação intuitiva e **funcionalidade eficiente**, garantindo uma presença online impactante.
+
+### 📱 Design Responsivo
+
+Desenvolvo sites que se **adaptam a qualquer dispositivo**, oferecendo uma experiência de usuário fluida em **desktops, tablets e smartphones**.
+
+### 🔧 Manutenção e Suporte
+
+Ofereço **manutenção contínua** e suporte técnico para garantir que seu site esteja **seguro, atualizado e funcionando perfeitamente**.
+
+## 🛠️ **Habilidades e Ferramentas**
+
 - **Front-end**: HTML, CSS, JavaScript, Bootstrap
 - **Back-end**: PHP e MySQL
-- **Ferramentas de Desenvolvimento**: Git, Visual Studio Code
-
-## 📚 **Educação**
-- **Superior em Marketing Digital** | Faculdade Anhanguera (Concluído)
-- **Formação Front-end** | Programa Ver Ser Tech - Ada Tech e iFood (Concluído)
+- **Ferramentas**: Git, Visual Studio Code
 
 ## 💼 **Experiência Profissional**
+
 ### **Desenvolvedor Front-end | Sunset Agência de Marketing**
-- Desenvolvimento de sites e interfaces para campanhas publicitárias.
-- Implementação de **melhores práticas de UI/UX** para garantir uma experiência de navegação otimizada.
-- Trabalhei em colaboração com equipes de design e marketing para criar soluções digitais que impactaram diretamente os resultados dos clientes.
-- **Atualmente disponível para novas oportunidades**.
+- Criação de **sites e interfaces** para campanhas digitais.
+- Implementação de **práticas de UI/UX** para otimização da experiência do usuário.
+- Colaboração com equipes de design e marketing para criar soluções visuais de impacto.
 
 ### **Operador de Monitoramento | Trans Sat Gerenciamento de Risco**
-- Supervisão de cargas de alto risco e protocolos de segurança.
-- Liderança em treinamentos e otimização de processos.
+- Supervisão de cargas e segurança de transportes.
+- Líder em **treinamentos e otimização de processos**.
+
+## 📚 **Educação**
+
+- **Superior em Marketing Digital** | Faculdade Anhanguera
+- **Formação Front-end** | Ada Tech e iFood
 
 ## 📬 **Entre em Contato**
+
 - 🌍 **Localização**: São José do Rio Preto - SP, Brasil
-- 🌐 **Portfólio**: [Bio Link](http://bio.link/hugohendrix)
+- 🌐 **Portfólio**: [portfolio](https://hugohendrix.github.io/portfolio-hugo/)
 - ✉️ **Email**: [hugohendrixc@gmail.com](mailto:hugohendrixc@gmail.com)
 
 ## 🌐 **Redes Sociais**
