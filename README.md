@@ -58,9 +58,7 @@ Ofereço **manutenção contínua** e suporte técnico para garantir que seu sit
 - 🌍 **Localização**: São José do Rio Preto - SP, Brasil
 - 🌐 **Portfólio**: [portfolio](https://hugohendrix.github.io/portfolio-hugo/)
 - ✉️ **Email**: [hugohendrixc@gmail.com](mailto:hugohendrixc@gmail.com)
+- 🌐 **Redes Sociais**: [Linkedin](https://www.linkedin.com/in/hugohendrix)
 
-## 🌐 **Redes Sociais**
-<a href="https://www.linkedin.com/in/hugohendrix" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" alt="LinkedIn" />
-</a>
+
 
