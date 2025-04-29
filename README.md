@@ -1,63 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B027&width=435&lines=Olá!+%F0%9F%91%8B+Meu+nome+é+Hugo+Hendrix...;Sou+um+Desenvolvedor+Front-end.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B027&width=435&lines=Olá!+%F0%9F%91%8B+Meu+nome+é+Hugo+Hendrix...;Desenvolvedor+Front-end.;)](https://git.io/typing-svg)
 
-<table align="right">
- <tr>
-   <td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README.md">🇧🇷 Português</a></td>
- </tr>
- <tr>
-   <td><a href="https://github.com/HugoHendrix/hugohendrix/blob/main/README-en.md">🇺🇸 English</a></td>
- </tr>
-</table>
+## 💻 Sobre mim
 
-## **Bem-vindo ao meu perfil!**
-
-Sou **Hugo Hendrix**, um desenvolvedor front-end apaixonado por transformar ideias em experiências digitais que encantam os usuários. Com uma sólida formação em **Marketing Digital** e **Desenvolvimento Web**, trago uma visão criativa e estratégica para cada projeto.
+Desenvolvedor Front-end apaixonado por criar experiências web memoráveis. Combinando conhecimentos em **Marketing Digital** e **Programação** para construir soluções que unem design e funcionalidade.
 
 ---
 
-## 🚀 **O que eu faço**
+## 🛠 Tecnologias
 
-### 🌐 Criação de Sites Personalizados
-Transformo ideias em **sites institucionais únicos**, destacando sua marca com design moderno e navegação intuitiva.
+**Front-end:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 📱 Design Responsivo
-Garanto experiências incríveis em **qualquer dispositivo**, desde desktops até smartphones.
+**Ferramentas:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 🔧 Manutenção e Suporte
-Proporciono suporte técnico e **manutenção contínua**, garantindo que seu site esteja sempre **atualizado e seguro**.
-
----
-
-## 🛠️ **Minhas Habilidades**
-
-### **Front-end**
-- HTML5, CSS3, JavaScript (ES6+), Bootstrap  
-- Design responsivo e práticas de UI/UX  
-
-### **Back-end**
-- PHP, MySQL
-
-### **Ferramentas**
-- Git & GitHub, Visual Studio Code  
-- Ferramentas de prototipação e design
-
-### **Em Aprendizado**
-- React.js, TypeScript
+**Estudando:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
-## 📚 **Educação**
+## 📌 Contato
 
-- 🎓 **Superior em Marketing Digital** | Faculdade Anhanguera  
-- 💻 **Formação em Desenvolvimento Front-end** | Ada Tech & iFood  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7135?style=for-the-badge&logo=firefox&logoColor=white)](https://hugohendrix.github.io/portfolio-hugo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugohendrix)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugohendrixc@gmail.com)
 
-Certificados disponíveis no meu [LinkedIn](https://www.linkedin.com/in/hugohendrix/details/certifications/).
-
----
-
-## 📬 **Como me encontrar**
-
-- 🌍 **Localização**: São José do Rio Preto, SP, Brasil  
-- 🌐 **Portfólio**: [hugohendrix.github.io/portfolio-hugo](https://hugohendrix.github.io/portfolio-hugo/)  
-- ✉️ **Email**: [hugohendrixc@gmail.com](mailto:hugohendrixc@gmail.com)  
-- 💼 **LinkedIn**: [Hugo Hendrix](https://www.linkedin.com/in/hugohendrix)
