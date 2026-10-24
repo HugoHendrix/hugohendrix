@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&pause=1200&color=2F7DF4&width=520&lines=Hello!+%F0%9F%91%8B+I+am+Hugo+Hendrix;Web+Developer+and+Customer+Success;Building+and+automating+with+AI)](https://hugohendrix.github.io/portfolio-hugo/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&pause=1200&color=2F7DF4&width=520&lines=Hello!+%F0%9F%91%8B+I+am+Hugo+Hendrix;Customer+Success+and+Sales+in+Tech;AI-Assisted+Web+Developer)](https://hugohendrix.github.io/portfolio-hugo/)
 
 <table align="right">
  <tr>
@@ -11,7 +11,7 @@
 
 ## 👋 About me
 
-I am a **web developer and customer success professional** at [Eco Webdesign](https://www.ecowebdesign.com.br), in São José do Rio Preto, Brazil. I combine technology, customer care and sales: I build business websites, train customers to be self-sufficient, and use **AI every day** to code, automate routines and document what I learn.
+I am a **Customer Success and Sales professional in tech** at [Eco Webdesign](https://www.ecowebdesign.com.br), in São José do Rio Preto, Brazil, since July 2025. I train customers and sell websites and online stores. I am also an **AI-assisted web developer**: I use **AI every day** to code, automate routines and document what I learn.
 
 ## 💼 What I do today
 

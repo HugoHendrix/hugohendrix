@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&pause=1200&color=2F7DF4&width=520&lines=Olá!+%F0%9F%91%8B+Eu+sou+o+Hugo+Hendrix;Desenvolvedor+Web+e+Sucesso+do+Cliente;Programando+e+automatizando+com+IA)](https://hugohendrix.github.io/portfolio-hugo/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=600&pause=1200&color=2F7DF4&width=520&lines=Olá!+%F0%9F%91%8B+Eu+sou+o+Hugo+Hendrix;Customer+Success+e+Comercial+em+tecnologia;Desenvolvedor+Web+com+IA)](https://hugohendrix.github.io/portfolio-hugo/)
 
 <table align="right">
  <tr>
@@ -11,7 +11,7 @@
 
 ## 👋 Sobre mim
 
-Sou **desenvolvedor web e profissional de sucesso do cliente** na [Eco Webdesign](https://www.ecowebdesign.com.br), em São José do Rio Preto (SP). Uno tecnologia, atendimento e vendas: crio sites institucionais, treino clientes para terem autonomia e uso **IA no dia a dia** para programar, automatizar rotinas e documentar o que aprendo.
+Sou **Customer Success e Comercial em tecnologia** na [Eco Webdesign](https://www.ecowebdesign.com.br), em São José do Rio Preto (SP), desde julho de 2025. Treino clientes e vendo sites e lojas virtuais. Também sou **desenvolvedor web** e uso **IA no dia a dia** para programar, automatizar rotinas e documentar o que aprendo.
 
 ## 💼 O que faço hoje
 
