@@ -42,7 +42,6 @@ I am a **Customer Success and Sales professional in tech** at [Eco Webdesign](ht
 
 - [**portfolio-hugo**](https://github.com/HugoHendrix/portfolio-hugo): my portfolio, with projects, experience and SEO ([live](https://hugohendrix.github.io/portfolio-hugo/))
 - [**CodeWiki**](https://github.com/HugoHendrix/CodeWiki): my library of notes, snippets and guides on HTML, CSS, JS and PHP ([live](https://hugohendrix.github.io/CodeWiki/))
-- [**balanceador-de-carteiras**](https://github.com/HugoHendrix/balanceador-de-carteiras): web app to rebalance an investment portfolio with AI
 - [**projeto-yoga**](https://github.com/HugoHendrix/projeto-yoga) and [**canto-arte-mosaico**](https://github.com/HugoHendrix/canto-arte-mosaico): responsive business websites
 
 ## 📫 Contact

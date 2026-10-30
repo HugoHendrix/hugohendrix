@@ -42,7 +42,6 @@ Sou **Customer Success e Comercial em tecnologia** na [Eco Webdesign](https://ww
 
 - [**portfolio-hugo**](https://github.com/HugoHendrix/portfolio-hugo): meu portfólio, com projetos, experiência e SEO ([ver online](https://hugohendrix.github.io/portfolio-hugo/))
 - [**CodeWiki**](https://github.com/HugoHendrix/CodeWiki): minha biblioteca de anotações, snippets e guias de HTML, CSS, JS e PHP ([ver online](https://hugohendrix.github.io/CodeWiki/))
-- [**balanceador-de-carteiras**](https://github.com/HugoHendrix/balanceador-de-carteiras): aplicação web para rebalancear carteira de investimentos com IA
 - [**projeto-yoga**](https://github.com/HugoHendrix/projeto-yoga) e [**canto-arte-mosaico**](https://github.com/HugoHendrix/canto-arte-mosaico): sites institucionais responsivos
 
 ## 📫 Contato
